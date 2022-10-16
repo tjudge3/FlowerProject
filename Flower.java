@@ -1,6 +1,5 @@
-//10-08-22 - Project 6 - tjudge
+//Project 6 - tjudge
 import java.awt.*;
-//import sedgewick.StdDraw;  - This import isn't necessary at all to make the code run.
 import edu.princeton.cs.introcs.StdDraw;
 
 public class Flower {
